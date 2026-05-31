@@ -19,3 +19,6 @@ Uma landing page simples e responsiva para uma empresa de hospedagem de sites. P
 * Uso de `@media` queries para adaptar o site para múltiplos dispositivos.
 * Quebra de layout com `flex-direction: column` para telas pequenas.
 
+
+[Clique aqui para acessar a página](https://souzaaugusto-code.github.io/pagina-simples/)
+
